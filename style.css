@@ -167,6 +167,7 @@ body {
     gap: 1.6rem;
     display: none; /* still toggled */
     align-items: center;
+    justify-content: start;
     padding: 1rem;
     background-color: transparent;
     box-shadow: none;
